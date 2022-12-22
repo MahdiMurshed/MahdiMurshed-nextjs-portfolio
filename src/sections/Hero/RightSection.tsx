@@ -5,63 +5,60 @@ const RightSection = () => {
   return (
     <div className="flex-1 overflow-y-scroll md:h-screen">
       <Projects />
-      <div>
-        <h1 className="text-6xl leading-tight font-bold">Mahdi Murshed</h1>
-        <h2 className="mt-4 sm:text-3xl text-[24px] font-semibold leading-tight">
-          Software Engineer
-        </h2>
-        <p className="leading-loose mt-8 text-s-txt text-xl">
-          Mahdi Murshed is a computer science undergraduate at Shahjalal
-          University of Science and Technology, with professional experience in
-          building websites using technologies such as React, TypeScript, and
-          NextJS.
-        </p>
-      </div>
-      <nav className="hidden text-sm font-bold uppercase text-widest mt-4 md:block">
-        <ul className="flex flex-row md:flex-col ">
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-        </ul>
-      </nav>
-      <div>
-        <h1 className="text-6xl leading-tight font-bold">Mahdi Murshed</h1>
-        <h2 className="mt-4 sm:text-3xl text-[24px] font-semibold leading-tight">
-          Software Engineer
-        </h2>
-        <p className="leading-loose mt-8 text-s-txt text-xl">
-          Mahdi Murshed is a computer science undergraduate at Shahjalal
-          University of Science and Technology, with professional experience in
-          building websites using technologies such as React, TypeScript, and
-          NextJS.
-        </p>
-      </div>
-      <nav className="hidden text-sm font-bold uppercase text-widest mt-4 md:block">
-        <ul className="flex flex-row md:flex-col ">
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-        </ul>
-      </nav>
-      <div>
-        <h1 className="text-6xl leading-tight font-bold">Mahdi Murshed</h1>
-        <h2 className="mt-4 sm:text-3xl text-[24px] font-semibold leading-tight">
-          Software Engineer
-        </h2>
-        <p className="leading-loose mt-8 text-s-txt text-xl">
-          Mahdi Murshed is a computer science undergraduate at Shahjalal
-          University of Science and Technology, with professional experience in
-          building websites using technologies such as React, TypeScript, and
-          NextJS.
-        </p>
-      </div>
-      <nav className="hidden text-sm font-bold uppercase text-widest mt-4 md:block">
-        <ul className="flex flex-row md:flex-col ">
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-        </ul>
-      </nav>
+
+      <p className="leading-loose mt-8 text-s-txt text-xl">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi non
+        rem aliquid quod hic eveniet fugiat quam nulla omnis ab magnam, unde
+        dicta molestias culpa distinctio vero veritatis totam iusto. Lorem ipsum
+        dolor sit, amet consectetur adipisicing elit. Eaque ipsum assumenda
+        perspiciatis debitis, nam nostrum quidem iusto saepe, neque earum
+        obcaecati blanditiis libero officiis ex eveniet illo illum! Nam voluptas
+        illo mollitia dicta officia molestiae impedit perspiciatis, obcaecati
+        accusantium non quibusdam odit recusandae aspernatur assumenda
+        voluptates ipsam ea nihil cumque distinctio necessitatibus ipsa maiores.
+        Autem sequi saepe odio sapiente veritatis dolores totam vel ex, error
+        consectetur explicabo sint, possimus a itaque expedita. Animi vero
+        suscipit eaque delectus rem nulla eveniet alias quod dolorum ipsam sunt
+        nobis ex accusamus rerum mollitia excepturi magnam veritatis vel
+        reiciendis eligendi id, assumenda aliquam voluptatem. Mahdi Murshed is a
+        computer science undergraduate at Shahjalal University of Science and
+        Technology, with professional experience in building websites using
+        technologies such as React, TypeScript, and NextJS. Lorem ipsum dolor
+        sit, amet consectetur adipisicing elit. Excepturi non rem aliquid quod
+        hic eveniet fugiat quam nulla omnis ab magnam, unde dicta molestias
+        culpa distinctio vero veritatis totam iusto. Lorem ipsum dolor sit, amet
+        consectetur adipisicing elit. Eaque ipsum assumenda perspiciatis
+        debitis, nam nostrum quidem iusto saepe, neque earum obcaecati
+        blanditiis libero officiis ex eveniet illo illum! Nam voluptas illo
+        mollitia dicta officia molestiae impedit perspiciatis, obcaecati
+        accusantium non quibusdam odit recusandae aspernatur assumenda
+        voluptates ipsam ea nihil cumque distinctio necessitatibus ipsa maiores.
+        Autem sequi saepe odio sapiente veritatis dolores totam vel ex, error
+        consectetur explicabo sint, possimus a itaque expedita. Animi vero
+        suscipit eaque delectus rem nulla eveniet alias quod dolorum ipsam sunt
+        nobis ex accusamus rerum mollitia excepturi magnam veritatis vel
+        reiciendis eligendi id, assumenda aliquam voluptatem. Mahdi Murshed is a
+        computer science undergraduate at Shahjalal University of Science and
+        Technology, with professional experience in building websites using
+        technologies such as React, TypeScript, and NextJS. Lorem ipsum dolor
+        sit, amet consectetur adipisicing elit. Excepturi non rem aliquid quod
+        hic eveniet fugiat quam nulla omnis ab magnam, unde dicta molestias
+        culpa distinctio vero veritatis totam iusto. Lorem ipsum dolor sit, amet
+        consectetur adipisicing elit. Eaque ipsum assumenda perspiciatis
+        debitis, nam nostrum quidem iusto saepe, neque earum obcaecati
+        blanditiis libero officiis ex eveniet illo illum! Nam voluptas illo
+        mollitia dicta officia molestiae impedit perspiciatis, obcaecati
+        accusantium non quibusdam odit recusandae aspernatur assumenda
+        voluptates ipsam ea nihil cumque distinctio necessitatibus ipsa maiores.
+        Autem sequi saepe odio sapiente veritatis dolores totam vel ex, error
+        consectetur explicabo sint, possimus a itaque expedita. Animi vero
+        suscipit eaque delectus rem nulla eveniet alias quod dolorum ipsam sunt
+        nobis ex accusamus rerum mollitia excepturi magnam veritatis vel
+        reiciendis eligendi id, assumenda aliquam voluptatem. Mahdi Murshed is a
+        computer science undergraduate at Shahjalal University of Science and
+        Technology, with professional experience in building websites using
+        technologies such as React, TypeScript, and NextJS.
+      </p>
     </div>
   );
 };

@@ -6,7 +6,7 @@ import { fadeIn, planetVariants, staggerContainer } from "src/lib/motion";
 
 const LeftSection = () => {
   return (
-    <div className="flex-1 h-screen flex flex-col justify-between align-center w-full p-32 sticky overflow-visible">
+    <div className="flex-1 min-h-screen flex flex-col justify-between align-center w-full p-32 overflow-visible">
       <motion.div
         variants={staggerContainer}
         initial="hidden"
